@@ -1,0 +1,10 @@
+[ {"make":"Ford",
+"model":"Mondeo",
+"price":8009 },
+
+{"make":"Audi",
+"model":"A8"},
+{"make":"Ford",
+"model":"Focus",
+"price":12000}
+]

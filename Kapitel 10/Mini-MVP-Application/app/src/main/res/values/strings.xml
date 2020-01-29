@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="hello_world_num">Hello world! #%d</string>
+    <string name="button_1">Greet</string>
+    <string name="button_2">Weather</string>
+    <string name="button_3">Cinema</string>
+</resources>
